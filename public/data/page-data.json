@@ -1,0 +1,112 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "romegomez29@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:romegomez29@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+549 261 2175626",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+90155882500"
+      },
+      {
+        "type": "website",
+        "label": "www.mywebsite.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.mywebsite.com"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "youtube",
+        "icon": "/images/icon/youtube.svg",
+        "link": "https://www.youtube.com/@romeogomez9948/"
+      },      
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/romeogomez/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Profesional Developer 2019-2022",
+        "description": "Digital House: Course Full Time Completed (Mercado Libre scholarship)"
+      },
+      {
+        "title": "Next Education 2020",
+        "description": "Alura (Oracle scholarship)"
+      },
+      {
+        "title": "Petroleum Engineer 2015-2022",
+        "description": "National University of Cuyo: Incomplete 90%"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Google Cloud (with certificate) (AWS y Azure too)",
+        "icon": "/images/home/education-skill/google.png",
+        "rating": 4
+      },
+      {
+        "name": "REACT (With Typescript + Next)",
+        "icon": "/images/home/education-skill/react.png",
+        "rating": 5
+      },
+      {
+        "name": "GOLANG (Backend)",
+        "icon": "/images/home/education-skill/golang.png",
+        "rating": 3
+      },
+      {
+        "name": "Python (Backend and Data)",
+        "icon": "/images/home/education-skill/python.jpg",
+        "rating": 5
+      },
+      {
+        "name": "SQL (Mysql, postgress, mariadb)",
+        "icon": "/images/home/education-skill/sql.png",
+        "rating": 5
+      },
+      {
+        "name": "NoSQL and VectorDatabase (Mongo, Redis, Elasticsearch, Supabase)",
+        "icon": "/images/home/education-skill/mongodb.png",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "hello@imsruthi.com",
+        "link": "mailto:hello@imsruthi.com"
+      },
+      {
+        "type": "phone",
+        "label": "+901 5588 2500",
+        "link": "tel:+90155882500"
+      }
+    ]
+  }
+}
