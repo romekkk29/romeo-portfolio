@@ -15,9 +15,9 @@
       },
       {
         "type": "website",
-        "label": "www.mywebsite.com",
+        "label": "romeo-resume",
         "icon": "/images/icon/web-icon.svg",
-        "link": "https://www.mywebsite.com"
+        "link": "https://romeo-resume.duckdns.org/"
       }
     ],
     "socialItems": [
