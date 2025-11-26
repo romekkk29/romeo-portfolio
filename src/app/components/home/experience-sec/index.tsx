@@ -7,7 +7,7 @@ const ExperienceSec = () => {
             title: "Data Developer",
             company: "https://www.avature.net/",
             type: "Fulltime",
-            description: "Software developtment and maintenance in the area of integrations and data. Php, vue js, JavaScript, Python, Linux, sql, Amazon cloud "
+            description: "Software developtment and maintenance in the area of integrations and data. Php, vue js, JavaScript, Python, Linux, sql, Amazon cloud, ElasticSearch, LangChain, IA apps"
         },
         {
             year: "2022+",

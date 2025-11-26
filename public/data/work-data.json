@@ -1,16 +1,22 @@
 {
   "workData": [
     {
+      "image": "/images/work/panel2.png",
+      "title": "App Software Managment",
+      "client": "Credentials Test: Email: romegomez29@gmail.com Password:123456",
+      "slug": "https://managementargento.duckdns.org/test/login"
+    },
+    {
       "image": "/images/work/soft.png",
       "title": "Langing page Software Management",
       "client": "+8",
       "slug": "https://managmentapp.duckdns.org/"
     },
     {
-      "image": "/images/work/panel2.png",
-      "title": "App Software Managment",
-      "client": "Credentials Test: Email: romegomez29@gmail.com Password:123456",
-      "slug": "https://managementargento.duckdns.org/test/login"
+      "image": "/images/work/channel.png",
+      "title": "Channel Youtube",
+      "client": "Ingeniero de Software Argentino Mendocino",
+      "slug": "https://www.youtube.com/@romeogomez9948/"
     }
 
   ]

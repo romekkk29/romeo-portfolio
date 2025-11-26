@@ -23,7 +23,7 @@ const index = () => {
               <h1>Software Engineer</h1>
             </div>
             <p className="text-secondary font-normal max-w-md xl:max-w-xl">
-                My motto is to learn something new every day. My daily task is to design, develop, and implement digital solutions using code and/or technology, analyzing the cost-benefit relationship of their automation.
+                My motto is to learn something new every day. My daily task is to design, develop, and implement digital solutions using code and/or technology, analyzing the cost-benefit relationship of their automation. I am at the forefront of IA projects, creating autonomous assistants and intelligent chatbots.
             </p>
           </div>
           <Image

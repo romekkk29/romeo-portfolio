@@ -35,7 +35,7 @@ const AboutMe = () => {
 
               <div className="w-full lg:max-w-2xl flex-1">
                 <p>
-                  My background is in Engineering. I create Software Architecture diagrams and participate in every stage. Why? Because I’m curious and self-taught — and I also had to work hard in startups where you build a product from scratch, with minimal cost and maximum scalability. In those environments, being efficient becomes your most valuable skill.
+                  My background is in Engineering. I create Software Architecture diagrams and participate in every stage. Why? Because I’m curious and self-taught — and I also had to work hard in startups where you build a product from scratch, with minimal cost and maximum scalability. In those environments, being efficient becomes your most valuable skill. I am a passionate developer who enjoys understanding the entire software lifecycle. I immersing myself in the product to ensure it meets the needs of the clients. 
                 </p>
 
                 <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-mistGray">
