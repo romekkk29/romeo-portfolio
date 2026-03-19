@@ -7,7 +7,7 @@ const ExperienceSec = () => {
             title: "Data Developer",
             company: "https://www.avature.net/",
             type: "Fulltime",
-            description: "Software developtment and maintenance in the area of integrations and data. Php, vue js, JavaScript, Python, Linux, sql, Amazon cloud, ElasticSearch, LangChain, IA apps"
+            description: "Part of the Data Services team, exclusively managing data queries and ensuring the security of sensitive information across all instances. I build and maintain a wide range of internal tools to automate integrations, data transformations, and messaging services, significantly improving the efficiency of exports, imports, and system monitoring. Technologies: Php, vue js, JavaScript, Python, Bash, sql, Amazon cloud, EC2, S3, networking, ElasticSearch, LangChain, AI assistant autonomous"
         },
         {
             year: "2022+",
@@ -21,7 +21,7 @@ const ExperienceSec = () => {
             title: "Software Programmer",
             company: "https://www.innovasof.com/",
             type: "Fulltime",
-            description: "Complete chat development with artificial intelligence. React and Next for the front, Python and fast api for the Backend with mongodb and pinecone for semantic searches and vector storage by openai"
+            description: "Lead Developer for an autonomous assistant project, focusing on complex data modeling and infrastructure. I engineered a robust data pipeline to migrate and synchronize information from MySQL Server into Elasticsearch, Pinecone, and MongoDB. By implementing advanced metadata tagging and data segmentation, I optimized vector-based retrieval systems, significantly reducing context window overhead and improving the accuracy of LLM responses. (Python, fast-api, openai, next js, react)"
         },
         {
             year: "2021-2022",
